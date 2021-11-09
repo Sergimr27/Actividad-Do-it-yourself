@@ -1,15 +1,14 @@
 # Actividad-Do-it-yourself
 
-1. Las frases **Combinator selectors**, **Pseudo-class selectors**, **Pseudo-elements selectors** y **Attribute selectors**, encontradas en el documento `html`, han de estar vinculadas (utilizar la etiqueta `a`) a los siguientes enlaces:
+1. Las frases **PlayStation**, **Xbox Series**, **** y **Stadia**, encontradas en el documento `html`, han de estar vinculadas (utilizar la etiqueta `a`) a los siguientes enlaces:
 
-    * https://www.w3schools.com/css/css_combinators.asp
-    * https://www.w3schools.com/css/css_pseudo_classes.asp
-    * https://www.w3schools.com/css/css_pseudo_elements.asp
-    * https://www.w3schools.com/css/css_attribute_selectors.asp
+    * http://www.playstation.com/es-es/ps5/
+    * http://www.xbox.com/es-ES
+    * https://stadia.google.com/?hl=es
 
 2. Utilizar [Google Fonts](https://fonts.google.com/) para cambiar la fuente del documento
 
-3. Utilizar [Font Awesome](https://fontawesome.com/) para añadir un icono de página
+3. Utilizar el loco de [EA Sports](https://www.ea.com/es-es) ha de estar vinculado mediante la etiqueta `link` al directorio `img`
 
 4. Mediante una hoja de **estilos externos** se ha de aplicar formato a la página web de manera que:
 
